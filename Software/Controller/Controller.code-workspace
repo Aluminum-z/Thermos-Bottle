@@ -1,0 +1,80 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"typeinfo": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"optional": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"system_error": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"*.tcc": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"deque": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"iostream": "cpp",
+			"chrono": "cpp",
+			"executor": "cpp",
+			"io_context": "cpp",
+			"timer": "cpp",
+			"future": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"thread": "cpp"
+		},
+		"search.exclude": {
+			"**/node_modules": true,
+			"**/bower_components": true,
+			"**/*.code-search": true,
+			"**/Debug":true,
+			"**/Release":true,
+		},
+		"C_Cpp.files.exclude": {
+			"**/.vscode": true,
+			"**/.vs": true,
+			"**/Debug":true,
+			"**/Release":true,
+		},
+		"files.watcherExclude": {
+			"**/Debug/**": true,
+			"**/Release/**": true
+		}
+	}
+}
